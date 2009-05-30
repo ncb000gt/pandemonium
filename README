@@ -20,3 +20,4 @@ Usage
 -------------
 
 Place the module in your <axiom_root>/modules directory.
+Add the module to your app.properties file.
