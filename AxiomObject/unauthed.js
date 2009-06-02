@@ -1,0 +1,3 @@
+function unauthorized() {
+    return "hi";
+}

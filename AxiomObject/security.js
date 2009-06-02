@@ -1,0 +1,3 @@
+function isAllowed() {
+    return false;
+}
