@@ -1,3 +1,3 @@
 function unauthorized() {
-    return root.get('home').login();
+    return root.get('beta').login();
 }
